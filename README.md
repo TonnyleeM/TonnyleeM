@@ -10,7 +10,7 @@ pythonCopyclass TonnyLee:
         self.role = "Software Engineering Student"
         self.school = "African Leadership University"
         self.languages = ["Python", "Shell"]
-        self.interests = ["Full Stack Development", "Software Engineering"]
+        self.interests = ["Front-End Developer", "Software Engineering"]
         self.currently_learning = "Advanced Programming Concepts"
         
     def say_hi(self):
@@ -21,7 +21,7 @@ me.say_hi()
 🌟 Featured Projects
 
 📚 Grade Book App - Academic management system built with Python
-🔥 ALU Zero Day - My first steps into full-stack engineering
+🔥 ALU Zero Day - My first steps into Front-End engineering
 🚀 ALU Higher Level Programming - Advancing through programming concepts
 ⚡ ALU Scripting - Shell scripting and automation solutions
 
