@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! I'm Tonny Lee 👨‍💻</h1>
 <h3 align="center">Building the future one commit at a time 🚀</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EFF&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full+Stack+Developer+in+Training;Passionate+about+Technology;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EFF&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Front+End+Developer+in+Training;Passionate+about+Technology;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
 </p>
 💫 About Me
 pythonCopyclass TonnyLee:
