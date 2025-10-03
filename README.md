@@ -10,7 +10,7 @@ pythonCopyclass TonnyLee:
         self.role = "Software Engineering Student"
         self.school = "African Leadership University"
         self.languages = ["Python", "Shell"]
-        self.interests = ["Front-End Developer", "Software Engineering"]
+        self.interests = ["Full-Stack Developer", "Software Engineering"]
         self.currently_learning = "Advanced Programming Concepts"
         
     def say_hi(self):
